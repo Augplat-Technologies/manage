@@ -1,0 +1,12 @@
+Array
+(
+    [0] => xtz.xlsx
+    [1] => timestamp.txt
+    [2] => example.xlsx
+    [3] => CAMPLAN - Your Campaign Plan.xlsx
+    [4] => CAMPLAN - Your Campaign Plan (1).xlsx
+    [5] => CAMPLAN - Your Campaign Plan & Submission Summary.xlsx
+    [6] => Book1.xlsx
+    [7] => ..
+    [8] => .
+)

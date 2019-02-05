@@ -1,0 +1,1 @@
+[18-Jan-2019 05:59:48 UTC] PHP Fatal error:  Using $this when not in object context in /home/mykampaign/public_html/campage/module/common/view/header.html.php on line 2
